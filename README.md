@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello, I'm Pitnon 👋
 
-<!--
-**Pitnon/Pitnon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about C++ and exploring various aspects of software and AI development. Here's a bit about me:
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on C
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science Student
+- 💻 Software Developer
+- 🌐 Exploring the world of C++ and beyond
+- 🚀 Constantly learning and expanding my knowledge
+
+## Current Projects
+
+- 📚 Learning java in school
+- 🚀 Developing a computer vision app
+
+## Interests
+
+I have a keen interest in:
+
+- C++ programming and modern C++ features
+- Software architecture and design patterns
+- Open-source contributions
+- Computer vision
